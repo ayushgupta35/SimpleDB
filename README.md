@@ -53,7 +53,7 @@ SimpleDB is a fully functional, educational relational database system built fro
 
 ### 🗂 Architecture Flow
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsXK6cu01gDz_Q8NYkSrzi7dUNfZ1Gccw2ogHRYGJ2Drt58gEoaK5GnIm6WTCxbCUyBC3m3763J1ZQPVpYV5uWi1ZlnMh-aRL8FsyCd_XM0bq2AZHq6UUuoSBKuIrvj9DwlWuhKw?key=9nlZhEyWeKIUueLOu-EVd2om){width="464"}
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsXK6cu01gDz_Q8NYkSrzi7dUNfZ1Gccw2ogHRYGJ2Drt58gEoaK5GnIm6WTCxbCUyBC3m3763J1ZQPVpYV5uWi1ZlnMh-aRL8FsyCd_XM0bq2AZHq6UUuoSBKuIrvj9DwlWuhKw?key=9nlZhEyWeKIUueLOu-EVd2om)
 
 ### 🚀 Highlights from Execution Pipeline
 
